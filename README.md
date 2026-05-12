@@ -1,11 +1,10 @@
 # Risk_Assessment_Tool
 
-Here's the README pulled directly from the document's own language:
-
 NLNB IT Risk Assessment Tool
 ETI 302 | Penn State University | Team GRQ
 
 **Project Overview**
+
 Nittany Lion National Bank (NLNB) is a financial institution that integrates hybrid-cloud technology with its operation. Despite its adoption of high-level technology, the bank experienced multiple application failures and system outages, which exposed vulnerabilities within the infrastructure. These failures resulted in major financial losses and reputational damage, especially coupled with competitive pressure from other banking institutions at the national level. As a response, our consulting team developed an all-encompassing IT risk assessment tool designed to evaluate emerging risks across the company's applications and data architectures, zero in on high-impact vulnerabilities, and provide specific recommendations to execute the goal of resilience and regulatory compliance.
 
 **What the Tool Does**
