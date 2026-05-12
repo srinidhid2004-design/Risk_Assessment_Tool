@@ -1,5 +1,10 @@
 # Risk_Assessment_Tool
 
+**Link to tool: **
+
+https://kuanenlee0925-blip.github.io/nlnb-risk-tool/index.html
+
+
 NLNB IT Risk Assessment Tool
 ETI 302 | Penn State University | Team GRQ
 
